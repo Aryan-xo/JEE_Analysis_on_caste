@@ -16,8 +16,7 @@ The analysis involved handling multiple datasets containing ranks such as OBC-NC
 
 ### 2. Predictions
 
-- Implemented linear regression models to predict rank based on given CRL.
-- Used the Sklearn library for machine learning tasks.
+- Predict rank based on given CRL.
 
 ### 3. Plotly Dash Integration
 
@@ -54,7 +53,7 @@ The analysis involved handling multiple datasets containing ranks such as OBC-NC
 
 ## Contributors
 
-- [Your Name]
-- [Your Email]
+- Aryan Kumar
+- aryan.727294@gmail.com
   
 Feel free to contribute or provide feedback by creating a pull request or an issue.
