@@ -28,13 +28,6 @@ The analysis involved handling multiple datasets containing ranks such as OBC-NC
 - Merged datasets based on common columns like 'Roll number A' and 'Roll number B'.
 - Processed datasets to handle missing values, rename columns, and sort values for better visualization.
 
-## Folder Structure
-
-- `data/`: Contains the original and processed datasets.
-- `code/`: Holds Python scripts and Jupyter notebooks for data analysis tasks.
-- `plots/`: Includes generated plots from the analysis.
-- `README.md`: Documentation file explaining the analysis and tasks performed.
-
 ## Tools and Libraries
 
 - Python
